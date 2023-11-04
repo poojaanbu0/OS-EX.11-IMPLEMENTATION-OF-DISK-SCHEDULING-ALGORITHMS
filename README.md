@@ -38,16 +38,15 @@ return 0;
 }
 ```
 
-
 ## OUTPUT:
-Screenshot 2023-10-08 204204
+![273457501-a18fe07e-2e54-4400-9d7d-78e10d234555](https://github.com/poojaanbu0/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/119390329/328b5e89-d4e7-47ff-8ad5-d60663bae7da)
 
 ## RESULT:
 Thus the implementation of the program for first come first serve disc scheduling has been successfully executed.
 
 # SHORTEST SEEK TIME FIRST
 ## AIM:
-To write a program for the first come first serve method of disc scheduling.
+To write a program for the Shortest seek time first method of disc scheduling.
 
 ## DESCRIPTION:
 Shortest seek time first (SSTF) algorithm
@@ -91,17 +90,16 @@ return 0;
 ```
 
 ## OUTPUT:
-Screenshot 2023-10-08 204225
+![273459437-52055641-f28c-4d32-ab7b-f50d08a6428a](https://github.com/poojaanbu0/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/119390329/4b091123-4414-42cf-9327-9397a5868569)
 
 ## RESULT:
 Thus the implementation of the program for shortest seek time first disc scheduling has been successfully executed.
 
 # SCAN
 ## AIM:
-To write a program for the first come first serve method of disc scheduling.
+To write a program for the scan method of disc scheduling.
 
 ## DESCRIPTION:
-
 SCAN
 
 It is also called as Elevator Algorithm. In this algorithm, the disk arm moves into a particular direction till the end, satisfying all the requests coming in its path, and then it turns backend moves in the reverse direction satisfying requests coming in its path.

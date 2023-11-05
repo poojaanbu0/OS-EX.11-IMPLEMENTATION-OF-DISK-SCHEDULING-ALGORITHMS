@@ -183,15 +183,14 @@ return 0;
 ```
 
 ## OUTPUT:
-Screenshot 2023-10-08 204237
+![273459348-722601de-9db8-4732-8e97-1ddc820d8392](https://github.com/poojaanbu0/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/119390329/4279bee1-c12c-4a5e-a4c0-1b335d36ef4f)
 
 ## RESULT:
 Thus the implementation of the program for SCAN disc scheduling has been successfully executed.
 
 # LOOK
-
 ## AIM:
-To write a program for the first come first serve method of disc scheduling.
+To write a program for the Look method of disc scheduling.
 
 ## DESCRIPTION:
 Look
@@ -270,7 +269,7 @@ return 0;
 ```
 
 ## OUTPUT:
-Screenshot 2023-10-08 204253
+![273459382-5657aa8c-0ed7-4eaa-b207-4710836bbbb4](https://github.com/poojaanbu0/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/119390329/a934fb1b-201f-4ce1-a8ab-cec94b5782f8)
 
 ## RESULT:
 Thus the implementation of the program for LOOK disc scheduling has been successfully executed.
